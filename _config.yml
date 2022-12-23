@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Martin Baines Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Martin Baines
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "An Old Geek or is that Old Git?"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
